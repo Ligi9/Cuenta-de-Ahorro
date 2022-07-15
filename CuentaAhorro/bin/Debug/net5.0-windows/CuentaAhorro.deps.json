@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "CuentaAhorro/1.0.0": {
+        "runtime": {
+          "CuentaAhorro.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CuentaAhorro/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
